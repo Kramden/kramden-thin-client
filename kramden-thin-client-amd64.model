@@ -1,0 +1,114 @@
+type: model
+authority-id: EH9A6Xg1QtCjYt4v3QlBVTPLAHDvEIn6
+series: 16
+brand-id: EH9A6Xg1QtCjYt4v3QlBVTPLAHDvEIn6
+model: kramden-thin-client-amd64
+architecture: amd64
+base: core22-desktop
+display-name: Kramden Thin Client (amd64)
+grade: signed
+snaps:
+  -
+    default-channel: 22/stable
+    id: mZqHskGgGDECRCKP7h7ef3Rl2wTwyNfy
+    name: pc-desktop
+    type: gadget
+  -
+    default-channel: 23.10/stable
+    id: pYVQrBcKmBa0mZ4CCN7ExT6jH8rY1hza
+    name: pc-kernel
+    type: kernel
+  -
+    default-channel: latest/edge/ubuntu-core-desktop
+    id: PMrrV4ml8uWuEUDBT8dSGnKUYbevVhc4
+    name: snapd
+    type: snapd
+  -
+    default-channel: latest/stable
+    id: qRMmQqNDz8kRUTqFIgqk2RzNNoC7jUZ6
+    name: core22-desktop
+    type: base
+  -
+    default-channel: latest/stable
+    id: LVkazk0JLrL0ivuHRlv3wp3bK1nAgwtN
+    name: ubuntu-desktop-session
+    type: app
+  -
+    default-channel: latest/stable
+    id: amcUKQILKXHHTlmSa7NMdnXSx02dNeeT
+    name: core22
+    type: base
+  -
+    default-channel: 22/stable
+    id: RmBXKl6HO6YOC2DE4G2q1JzWImC04EUy
+    name: network-manager
+    type: app
+  -
+    default-channel: latest/stable
+    id: EISPgh06mRh1vordZY9OZ34QHdd7OrdR
+    name: bare
+    type: base
+  -
+    default-channel: latest/stable
+    id: jZLfBRzf1cYlYysIjD2bwSzNtngY0qit
+    name: gtk-common-themes
+    type: app
+  -
+    default-channel: latest/stable
+    id: lATO8HzwVvrAPrlZRAWpfyrJKlAJrZS3
+    name: gnome-42-2204
+    type: app
+  -
+    default-channel: latest/stable
+    id: m1eQacDdXCthEwWQrESei3Zao3d5gfJF
+    name: cups
+    type: app
+  -
+    default-channel: latest/stable
+    id: WJKWBUuCDufOFw2p24tvkbbw02plGkbd
+    name: ipp-usb
+    type: app
+  -
+    default-channel: 22/stable
+    id: dVK2PZeOLKA7vf1WPCap9F8luxTk9Oll
+    name: avahi
+    type: app
+  -
+    default-channel: 22/stable
+    id: JmzJi9kQvHUWddZ32PDJpBRXUpGRxvNS
+    name: bluez
+    type: app
+  -
+    default-channel: latest/edge/ubuntu-core-desktop
+    id: IrwRHakqtzhFRHJOOPxKVPU0Kk7Erhcu
+    name: snapd-desktop-integration
+    type: app
+  -
+    default-channel: latest/stable
+    id: xODwiAdjx9KGChvI1z9Xx2JWJE7oLFF6
+    name: ubuntu-core-desktop-init
+    type: app
+  -
+    default-channel: latest/stable
+    id: ffnH0sJpX3NFAclH777M8BdXIWpo93af
+    name: landscape-client
+    type: app
+  -
+    default-channel: latest/stable
+    id: XC73ux8XOHjoahd9keAyvM3LVkPBLTzy
+    name: remmina
+    type: app
+storage-safety: prefer-encrypted
+timestamp: 2024-04-25T10:19:41+00:00
+sign-key-sha3-384: cv1_9WCxXbuio7_BcK9ip_UCuMQDmIMxg8qlk07JWmuNRGIJ4vME4Pg76P_pwpwC
+
+AcLBcwQAAQoAHRYhBHbAdh2a6or5iO9gRX9SD944cAACBQJmK+pLAAoJEH9SD944cAACHcwP/2Ta
+XSvNsWaq0R/smF0NJnDbF+csqxGTbz8DKBouBV3Nllt3CUAixqHa04WLlTjamUQQe1bpLnUK2NWj
+M5gZQ+p7s4jXHJTg/4r/JdWGSPVPq6SCidmouRaycDV15VW6GuDReYXiqgTmogWsPfNNOue9DGjf
+m2ccraicXwNF+mjGCI2dJxNqPzOcjXizJWvtZZy2z143zdxJQbWsC2PskRn6vxLJTsGo2YPjCDFM
+JFajdLo4buyldaLoo4XeiWtzEUvVxQOhjSj4GeyLQO/ZE46yydDaglds1lh0SUGsfrvLnmvUDKBS
+wkX1AWGVrujvrJLRsigkIR04oeGf2Skz2N92Bpp32853L2eV2Hs/U4NxoparfhG4XbPzi6X0FAOI
+7D6pohHUDO4oyVjhsC6j1DUQO+5DVJztVMp2sUZskx00y7PEL9lDUoco8Opo/Muu6ivtCR7aYX5z
+maOY92hlOhPDHAdA7QxxFk/3Jei3z3PWybQPKz+u4MBuXeJTsFaJ+DUCHRZ4COqz9nxDhNdN7VGI
+uz6rT+NIJHWSnouTeumV9EjQO4/lw1SBu82/rR0RS1+IOL7wFRpkWgRvjkriOP+EpK4wNLHpJNZ8
+HPG0DvMoX5xDyUiV6a2rlV5utCGSveH1Q2s+Tzm+Z8MiycDtJjLgOdhDC76jAiGfyPOZHT5O
